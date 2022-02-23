@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ashok Bhandari
-- 👀 I’m interested in Problem Solving, Artificial Intelligence, Python, Machine Learning
+- 👀 I’m interested in Problem Solving, Java, Python, Machine Learning
 - 🌱 I’m currently learning Python, AI, ML
 
 - 📫 You may reach me @Linkedin
